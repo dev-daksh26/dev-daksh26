@@ -1,7 +1,7 @@
 # Daksh Saxena
 
 <p align="center">
-  <img src="assets/hero.svg?v=7" alt="Daksh Saxena - Hero Banner" width="100%">
+  <img src="assets/hero.svg?v=6" alt="Daksh Saxena - Hero Banner" width="100%">
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ## 🎯 About & Focus
 
 <p align="center">
-  <img src="assets/about-life.svg?v=7" alt="About & Capabilities" width="100%">
+  <img src="assets/about-life.svg?v=6" alt="About & Capabilities" width="100%">
 </p>
 
 ---
@@ -17,7 +17,7 @@
 ## 🛠️ Tech Stack & Architecture
 
 <p align="center">
-  <img src="assets/stack.svg?v=7" alt="Tech Stack" width="100%">
+  <img src="assets/stack.svg?v=6" alt="Tech Stack" width="100%">
 </p>
 
 ---
@@ -25,7 +25,7 @@
 ## 🏆 Credentials & Verification
 
 <p align="center">
-  <img src="assets/id-dashboard.svg?v=7" alt="Verified Credentials & Metrics" width="100%">
+  <img src="assets/id-dashboard.svg?v=6" alt="Verified Credentials & Metrics" width="100%">
 </p>
 
 ---
@@ -43,7 +43,7 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <image href="https://raw.githubusercontent.com/dev-daksh26/dev-daksh26/main/assets/right_pointing.png" x="-10" y="5" width="410" height="415" preserveAspectRatio="xMidYMid meet"/>
+  <img src="assets/connect.svg?v=6" alt="Connect with Daksh" width="100%">
 </p>
 
 <p align="center">
