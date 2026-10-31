@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 480" width="100%" height="100%">
+  <defs>
+    <linearGradient id="lanyardStrap" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1e293b" />
+      <stop offset="50%" stop-color="#247bff" />
+      <stop offset="100%" stop-color="#1e293b" />
+    </linearGradient>
+    <linearGradient id="badgeBody" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0c152a" />
+      <stop offset="100%" stop-color="#070b16" />
+    </linearGradient>
+    <linearGradient id="foilSweep" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0" />
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.18" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0" />
+    </linearGradient>
+    <clipPath id="badgeClip">
+      <rect x="0" y="0" width="260" height="360" rx="16" />
+    </clipPath>
+  </defs>
+
+  <style>
+    @keyframes dropAndSway {
+      0% { transform: translateY(-300px) rotate(0deg); }
+      35% { transform: translateY(0px) rotate(4deg); }
+      55% { transform: translateY(-10px) rotate(-3.5deg); }
+      75% { transform: translateY(0px) rotate(2deg); }
+      85% { transform: translateY(-3px) rotate(-1.7deg); }
+      100% { transform: translateY(0px) rotate(1.7deg); }
+    }
+    @keyframes perpetualSway {
+      0%, 100% { transform: rotate(1.7deg); }
+      50% { transform: rotate(-1.7deg); }
+    }
+    .sway-assembly {
+      transform-origin: 170px 0px;
+      animation: dropAndSway 2.5s cubic-bezier(0.25, 1, 0.5, 1) forwards, perpetualSway 4.5s ease-in-out infinite 2.5s;
+    }
+    .metric-val { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 26px; font-weight: 800; fill: #ffffff; }
+    .metric-sub { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 13px; fill: #94a3b8; }
+    @media (prefers-reduced-motion: reduce) {
+      .sway-assembly { animation: none !important; transform: none !important; }
+    }
+  </style>
+
+  <g class="sway-assembly">
+    <path d="M150 0 L164 45 M190 0 L176 45" stroke="url(#lanyardStrap)" stroke-width="12" stroke-linecap="round" />
+    
+    <rect x="160" y="45" width="20" height="15" rx="3" fill="#94a3b8" />
+    <ellipse cx="170" cy="62" rx="7" ry="5" fill="#64748b" />
+    
+    <g transform="translate(40, 70)">
+      <rect width="260" height="360" rx="16" fill="url(#badgeBody)" stroke="#247bff" stroke-width="1.8" />
+      <rect x="105" y="8" width="50" height="7" rx="3.5" fill="#070b16" stroke="#334155" stroke-width="1" />
+
+      <g clip-path="url(#badgeClip)">
+        
+        <rect x="-260" y="0" width="260" height="360" fill="url(#foilSweep)" transform="skewX(-20)">
+          <animate attributeName="x" values="-350;350;-350" keyTimes="0;0.5;1" dur="7s" repeatCount="indefinite" />
+        </rect>
+      </g>
+
+      <text x="130" y="235" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="19" font-weight="800" fill="#ffffff">DAKSH SAXENA</text>
+      <text x="130" y="254" text-anchor="middle" font-family="monospace" font-size="11" fill="#247bff" font-weight="600">ID: DEV-DAKSH26 // 2026</text>
+      <text x="130" y="272" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" fill="#94a3b8">Poornima Inst. of Eng. & Tech</text>
+
+      <g transform="translate(30, 292)" fill="#f8fafc">
+        <rect x="0" width="4" height="32" /><rect x="7" width="2" height="32" /><rect x="12" width="6" height="32" />
+        <rect x="22" width="3" height="32" /><rect x="29" width="1" height="32" /><rect x="34" width="5" height="32" />
+        <rect x="43" width="2" height="32" /><rect x="49" width="4" height="32" /><rect x="57" width="7" height="32" />
+        <rect x="68" width="2" height="32" /><rect x="73" width="5" height="32" /><rect x="82" width="3" height="32" />
+        <rect x="89" width="2" height="32" /><rect x="94" width="6" height="32" /><rect x="104" width="4" height="32" />
+        <rect x="112" width="2" height="32" /><rect x="117" width="5" height="32" /><rect x="126" width="3" height="32" />
+        <rect x="133" width="7" height="32" /><rect x="144" width="2" height="32" /><rect x="150" width="4" height="32" />
+        <rect x="158" width="6" height="32" /><rect x="168" width="2" height="32" /><rect x="174" width="5" height="32" />
+        <rect x="183" width="3" height="32" /><rect x="190" width="4" height="32" /><rect x="196" width="4" height="32" />
+      </g>
+    </g>
+  </g>
+
+  <g transform="translate(350, 70)">
+    <rect x="0" y="0" width="460" height="150" rx="16" fill="#0c162f" stroke="#ff354f" stroke-width="1.2" />
+    <text x="28" y="36" font-family="monospace" font-size="12" fill="#ff354f" font-weight="700">VERIFIED COMPETITIVE MILESTONE</text>
+    <text x="28" y="72" class="metric-val">Top 20 Finalist (Out of 150 Teams)</text>
+    <text x="28" y="100" class="metric-sub">Smart India Hackathon (SIH) Internal Selection</text>
+    <text x="28" y="122" font-family="monospace" font-size="12" fill="#38bdf8">Poornima Institute of Eng. & Tech • October 2026</text>
+
+    <g transform="translate(0, 175)">
+      <rect x="0" y="0" width="215" height="140" rx="14" fill="#0c162f" stroke="#247bff" stroke-width="1.2" />
+      <text x="22" y="32" font-family="monospace" font-size="11" fill="#247bff" font-weight="600">LEAD INITIATIVE</text>
+      <text x="22" y="66" class="metric-val">BharatVault</text>
+      <text x="22" y="92" class="metric-sub">AI Land Record Digitization</text>
+      <text x="22" y="114" font-family="monospace" font-size="11" fill="#94a3b8">SIH & HSC Innovation</text>
+
+      <rect x="245" y="0" width="215" height="140" rx="14" fill="#0c162f" stroke="#247bff" stroke-width="1.2" />
+      <text x="267" y="32" font-family="monospace" font-size="11" fill="#247bff" font-weight="600">INTELLIGENCE PLATFORM</text>
+      <text x="267" y="66" class="metric-val">AI Generator</text>
+      <text x="267" y="92" class="metric-sub">Automated Assessment System</text>
+      <text x="267" y="114" font-family="monospace" font-size="11" fill="#94a3b8">Streamlit + OpenAI</text>
+    </g>
+  </g>
+</svg>
