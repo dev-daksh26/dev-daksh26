@@ -43,7 +43,7 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <img src="assets/connect.svg?v=7" alt="Connect with Daksh" width="100%">
+  <image href="https://raw.githubusercontent.com/dev-daksh26/dev-daksh26/main/assets/right_pointing.png" x="-10" y="5" width="410" height="415" preserveAspectRatio="xMidYMid meet"/>
 </p>
 
 <p align="center">
