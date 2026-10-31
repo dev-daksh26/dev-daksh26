@@ -1,7 +1,7 @@
 # Daksh Saxena
 
 <p align="center">
-  <img src="assets/hero.svg?v=1" alt="Daksh Saxena - Hero Banner" width="100%">
+  <img src="assets/hero.svg?v=5" alt="Daksh Saxena - Hero Banner" width="100%">
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ## 🎯 About & Focus
 
 <p align="center">
-  <img src="assets/about-life.svg?v=1" alt="About & Capabilities" width="100%">
+  <img src="assets/about-life.svg?v=5" alt="About & Capabilities" width="100%">
 </p>
 
 ---
@@ -17,7 +17,7 @@
 ## 🛠️ Tech Stack & Architecture
 
 <p align="center">
-  <img src="assets/stack.svg?v=1" alt="Tech Stack" width="100%">
+  <img src="assets/stack.svg?v=5" alt="Tech Stack" width="100%">
 </p>
 
 ---
@@ -25,7 +25,7 @@
 ## 🏆 Credentials & Verification
 
 <p align="center">
-  <img src="assets/id-dashboard.svg?v=1" alt="Verified Credentials & Metrics" width="100%">
+  <img src="assets/id-dashboard.svg?v=5" alt="Verified Credentials & Metrics" width="100%">
 </p>
 
 ---
@@ -43,7 +43,7 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <img src="assets/connect.svg?v=1" alt="Connect with Daksh" width="100%">
+  <img src="assets/connect.svg?v=5" alt="Connect with Daksh" width="100%">
 </p>
 
 <p align="center">
@@ -55,17 +55,3 @@
   &nbsp;
   <a href="https://instagram.com/dev.daksh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
-<!--
-**dev-daksh26/dev-daksh26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
