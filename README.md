@@ -1,22 +1,15 @@
+# Daksh Saxena
+
 <p align="center">
-  <img src="assets/hero.svg?v=30" alt="Daksh Saxena - Hero Banner" width="100%">
+  <img src="assets/hero.svg?v=50" alt="Daksh Saxena - Hero Banner" width="100%">
 </p>
-<table>
-  <tr>
-    <td width="65%" valign="middle">
-      <img src="assets/hero.svg?v=35" width="100%" alt="Hero Banner" />
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="assets/id.png" width="260px" alt="Daksh Saxena" />
-    </td>
-  </tr>
-</table>
+
 ---
 
 ## 🎯 About & Focus
 
 <p align="center">
-  <img src="assets/about-life.svg?v=30" alt="About & Capabilities" width="100%">
+  <img src="assets/about-life.svg?v=50" alt="About & Capabilities" width="100%">
 </p>
 
 ---
@@ -24,7 +17,7 @@
 ## 🛠️ Tech Stack & Architecture
 
 <p align="center">
-  <img src="assets/stack.svg?v=30" alt="Tech Stack" width="100%">
+  <img src="assets/stack.svg?v=50" alt="Tech Stack" width="100%">
 </p>
 
 ---
@@ -32,7 +25,7 @@
 ## 🏆 Credentials & Verification
 
 <p align="center">
-  <img src="assets/id-dashboard.svg?v=30" alt="Verified Credentials & Metrics" width="100%">
+  <img src="assets/id-dashboard.svg?v=50" alt="Verified Credentials & Metrics" width="100%">
 </p>
 
 ---
@@ -50,18 +43,9 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <img src="assets/connect.svg?v=30" alt="Connect with Daksh" width="100%">
+  <img src="assets/connect.svg?v=50" alt="Connect with Daksh" width="100%">
 </p>
-<table>
-  <tr>
-    <td width="38%" align="center" valign="middle">
-      <img src="assets/right_pointing.png" width="280px" alt="Daksh Pointing" />
-    </td>
-    <td width="62%" valign="middle">
-      <img src="assets/connect.svg?v=35" width="100%" alt="Connect Cards" />
-    </td>
-  </tr>
-</table>
+
 <p align="center">
   <a href="https://linkedin.com/in/dev-daksh26"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;
